@@ -6,8 +6,8 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 71.12 48.26)
-		(size 23.495 13.335)
+		(at 74.295 52.705)
+		(size 15.875 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20,9 +20,9 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "1fc1f2ad-8f70-4d8d-887a-d2b9c5efaac8")
+		(uuid "7d17e823-1f05-4d67-8a9d-6a489e5f91b1")
 		(property "Sheetname" "left"
-			(at 71.12 47.5484 0)
+			(at 74.295 51.9934 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32,8 +32,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "side.kicad_sch"
-			(at 71.12 62.1796 0)
+		(property "Sheetfile" "left.kicad_sch"
+			(at 74.295 63.4496 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -52,13 +52,12 @@
 		)
 	)
 	(sheet
-		(at 38.1 48.26)
-		(size 23.495 13.335)
+		(at 49.53 52.705)
+		(size 15.875 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -66,9 +65,9 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "57e562ac-ae8b-4294-9464-c047d3bca64e")
+		(uuid "d0ae19b0-b7da-4816-a0fb-7015ad125687")
 		(property "Sheetname" "right"
-			(at 38.1 47.5484 0)
+			(at 49.53 51.9934 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -78,8 +77,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "side.kicad_sch"
-			(at 38.1 62.1796 0)
+		(property "Sheetfile" "right.kicad_sch"
+			(at 49.53 63.4496 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
